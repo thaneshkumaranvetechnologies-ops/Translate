@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="main" source-language="en" target-language="en" datatype="plaintext">
+    <body>
+
+      <trans-unit id="welcome">
+        <source>Welcome to my application</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="goodbye">
+        <source>Goodbye, see you soon!</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="hello">
+        <source>Hello World</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="nav-home">
+        <source>Home</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="nav-about">
+        <source>About</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="nav-contact">
+        <source>Contact Us</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="nav-login">
+        <source>Login</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="nav-logout">
+        <source>Logout</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="btn-save">
+        <source>Save</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="btn-cancel">
+        <source>Cancel</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="btn-delete">
+        <source>Delete</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="btn-edit">
+        <source>Edit</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="btn-submit">
+        <source>Submit</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="msg-success">
+        <source>Your changes have been saved successfully.</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="msg-error">
+        <source>Something went wrong. Please try again.</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="msg-loading">
+        <source>Loading, please wait...</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="msg-not-found">
+        <source>Page not found.</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="form-name">
+        <source>Full Name</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="form-email">
+        <source>Email Address</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="form-password">
+        <source>Password</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="form-phone">
+        <source>Phone Number</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="profile-title">
+        <source>User Profile</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="profile-edit">
+        <source>Edit Profile</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="profile-save">
+        <source>Save Changes</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="dashboard-title">
+        <source>Dashboard</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="dashboard-total-users">
+        <source>Total Users</source>
+        <target></target>
+      </trans-unit>
+
+      <trans-unit id="dashboard-total-projects">
+        <source>Total Projects</source>
+        <target></target>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

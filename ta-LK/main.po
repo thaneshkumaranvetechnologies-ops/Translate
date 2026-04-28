@@ -1,0 +1,115 @@
+# Translation file for My Application
+# Copyright (C) 2024
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#: src/app.js:1
+msgid "welcome"
+msgstr "Welcome to my application"
+
+#: src/app.js:2
+msgid "goodbye"
+msgstr "Goodbye, see you soon!"
+
+#: src/app.js:3
+msgid "hello"
+msgstr "Hello World"
+
+#: src/nav.js:1
+msgid "nav-home"
+msgstr "Home"
+
+#: src/nav.js:2
+msgid "nav-about"
+msgstr "About"
+
+#: src/nav.js:3
+msgid "nav-contact"
+msgstr "Contact Us"
+
+#: src/nav.js:4
+msgid "nav-login"
+msgstr "Login"
+
+#: src/nav.js:5
+msgid "nav-logout"
+msgstr "Logout"
+
+#: src/buttons.js:1
+msgid "btn-save"
+msgstr "Save"
+
+#: src/buttons.js:2
+msgid "btn-cancel"
+msgstr "Cancel"
+
+#: src/buttons.js:3
+msgid "btn-delete"
+msgstr "Delete"
+
+#: src/buttons.js:4
+msgid "btn-edit"
+msgstr "Edit"
+
+#: src/buttons.js:5
+msgid "btn-submit"
+msgstr "Submit"
+
+#: src/messages.js:1
+msgid "msg-success"
+msgstr "Your changes have been saved successfully."
+
+#: src/messages.js:2
+msgid "msg-error"
+msgstr "Something went wrong. Please try again."
+
+#: src/messages.js:3
+msgid "msg-loading"
+msgstr "Loading, please wait..."
+
+#: src/messages.js:4
+msgid "msg-not-found"
+msgstr "Page not found."
+
+#: src/forms.js:1
+msgid "form-name"
+msgstr "Full Name"
+
+#: src/forms.js:2
+msgid "form-email"
+msgstr "Email Address"
+
+#: src/forms.js:3
+msgid "form-password"
+msgstr "Password"
+
+#: src/forms.js:4
+msgid "form-phone"
+msgstr "Phone Number"
+
+#: src/profile.js:1
+msgid "profile-title"
+msgstr "User Profile"
+
+#: src/profile.js:2
+msgid "profile-edit"
+msgstr "Edit Profile"
+
+#: src/profile.js:3
+msgid "profile-save"
+msgstr "Save Changes"
+
+#: src/dashboard.js:1
+msgid "dashboard-title"
+msgstr "Dashboard"
+
+#: src/dashboard.js:2
+msgid "dashboard-total-users"
+msgstr "Total Users"
+
+#: src/dashboard.js:3
+msgid "dashboard-total-projects"
+msgstr "Total Projects"
